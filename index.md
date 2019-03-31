@@ -26,9 +26,15 @@ We will not give it to any third party or publish it publicly anywhere.
 
 # Citation
 If you use the dataset, please kindly cite the following paper:
-* Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance. IEEE Trans. Multimedia 20(3): 645-658 (2018) (Citation=26)
+* Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: **PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance. IEEE Trans. Multimedia** 20(3): 645-658 (2018) (Citation=26)
 * Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. ECCV (2) 2016: 869-884 (Citation=56)
 * Xinchen Liu, Wu Liu, Huadong Ma, Huiyuan Fu: Large-scale vehicle re-identification in urban surveillance videos. ICME 2016: 1-6 (**Best Student Paper Award**, Citation=75)
+
+# Application
+One US patent, ‘Progressive vehicle searching method and device’ (US 15350813), was granted in 2018. 
+
+This technique has been applied to the Intelligent Transportation Big Data Platform of Beijing Boyotod Technology Co., Ltd. (the subsidiary technical corporation of Beijing Capital Highway Development Group Co., Ltd.).
+It has been deployed on several expressways including the G1 Jingha Expressway, the G6 Jingzang Expressway and the S12 Airport South Expressway.
 
 # Codes
 Here we give an example code for vehicle search evaluation.
