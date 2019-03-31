@@ -8,7 +8,7 @@ Furthermore, to evaluate our progressive search framework and facilitate related
 It not only provides large numbers of vehicles with varied labels and sufficient cross-camera recurrences but also contains license number plates and contextual information. 
 Extensive experiments on the VeRi dataset demonstrate both the accuracy and efficiency of our progressive vehicle re-identification framework.
 
-&ensp;&ensp;&ensp;&ensp;![Image](./images/PROVID.png)
+&ensp;&ensp;![Image](./images/PROVID.png)
 
 # VeRi dataset 
 To facilitate the research of vehicle re-identification (Re-Id), we build a large-scale benchmark dateset for vehicle Re-Id in the real-world urban surveillance scenario, named "VeRi". The featured properties of VeRi include:
