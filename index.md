@@ -1,5 +1,4 @@
-
-# Abstract
+## Abstract
 Compared with person re-identification, which has concentrated attention, vehicle re-identification is an important yet frontier problem in video surveillance and has been neglected by the multimedia and vision communities. 
 Since most existing approaches mainly consider the general vehicle appearance for re-identification while overlooking the distinct vehicle identifier, such as the license number plate, they attain suboptimal performance. 
 In this paper, we propose PROVID, a PROgressive Vehicle re-IDentification framework based on deep neural networks. 
@@ -10,7 +9,7 @@ Extensive experiments on the VeRi dataset demonstrate both the accuracy and effi
 
 &ensp;&ensp;![Image](./images/PROVID.png)
 
-# VeRi dataset 
+## VeRi dataset 
 To facilitate the research of vehicle re-identification (Re-Id), we build a large-scale benchmark dateset for vehicle Re-Id in the real-world urban surveillance scenario, named "VeRi". The featured properties of VeRi include:
 * It contains over 50,000 images of 776 vehicles captured by 20 cameras covering an 1.0 km^2 area in 24 hours, which makes the dataset scalable enough for vehicle Re-Id and other related research. 
 * The images are captured in a real-world unconstrained surveillance scene and labeled with varied attributes, e.g. BBoxes, types, colors, and brands. So complicated models can be learnt and evaluated for vehicle Re-Id.
@@ -19,25 +18,25 @@ To facilitate the research of vehicle re-identification (Re-Id), we build a larg
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;&ensp;![Image](./images/VeRi2_240.png)
 
-## Download
+### Download
 To encourage related research, we will provide the dataset according to your request. 
 Please email your full name and affiliation to the contact person (*xinchenliu at bupt dot edu dot cn*). 
 We ask for your information only to make sure the dataset is used for non-commercial purposes. 
 We will not give it to any third party or publish it publicly anywhere.
 
-# Citation
+## Citation
 If you use the dataset, please kindly cite the following paper:
 * Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: **PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance. IEEE Trans. Multimedia** 20(3): 645-658 (2018) (Citation=26)
 * Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. ECCV (2) 2016: 869-884 (Citation=56)
 * Xinchen Liu, Wu Liu, Huadong Ma, Huiyuan Fu: Large-scale vehicle re-identification in urban surveillance videos. ICME 2016: 1-6 (**Best Student Paper Award**, Citation=75)
 
-# Application
+## Application
 One US patent, ‘Progressive vehicle searching method and device’ (US 15350813), was granted in 2018. 
 
 This technique has been applied to the Intelligent Transportation Big Data Platform of Beijing Boyotod Technology Co., Ltd. (the subsidiary technical corporation of Beijing Capital Highway Development Group Co., Ltd.).
 It has been deployed on several expressways including the G1 Jingha Expressway, the G6 Jingzang Expressway and the S12 Airport South Expressway.
 
-# Codes
+## Codes
 Here we give an example code for vehicle search evaluation.
 
 In this code, we should first get the distance matrix of all query images and test images.
@@ -51,7 +50,7 @@ At last, we can obtain the mAP, HIT@1, HIT@5, and the CMC curves.
 
 The model and distance files can be downloaded from [BaiduPan](https://pan.baidu.com/s/1gYBNQI0_MZLB0ANW8qnYGw) and [GoogleDrive](https://drive.google.com/open?id=0B0o1ZxGs_oVZWmtFdXpqTGl3WUU).
 
-# State-of-the-art Results on the VeRi Dataset
+## State-of-the-art Results on the VeRi Dataset
 
 |Reference|Year|        Rank-1|        Rank-5|           mAP|
 |:-------:|:--:|-------------:|-------------:|-------------:|
@@ -80,7 +79,7 @@ The model and distance files can be downloaded from [BaiduPan](https://pan.baidu
 |[23]|2019|61.83|88.5|94.46|
 
 
-## Reference
+### Reference
 [1] Liu, Xinchen, et al. "Large-scale vehicle re-identification in urban surveillance videos." ICME 2016.
 
 [2] Liu, Xinchen, et al. "A deep learning-based approach to progressive vehicle re-identification for urban surveillance." ECCV 2016.
