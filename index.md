@@ -16,7 +16,7 @@ To facilitate the research of vehicle re-identification (Re-Id), we build a larg
 * Each vehicle is captured by 2 ∼ 18 cameras in different viewpoints, illuminations, resolutions, and occlusions, which provides high recurrence rate for vehicle Re-Id in practical surveillance environment.
 * It is also labeled with sufficient license plates and spatiotemporal information, such as the BBoxes of plates, plate strings, the timestamps of vehicles, and the distances between neighbouring cameras.
 
-&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;![Image](./images/VeRi2_240.png)
+![Image](./images/VeRi_240.png)![Image](./images/VeRi2_240.png)
 
 ### Download
 To encourage related research, we will provide the dataset according to your request. 
