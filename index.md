@@ -37,15 +37,6 @@ This technique has been applied to the Intelligent Transportation Big Data Platf
 It has been deployed on several expressways including the G1 Jingha Expressway, the G6 Jingzang Expressway and the S12 Airport South Expressway.
 
 ## Codes
-Here we give an example code for vehicle search evaluation.
+Here we give a simple example [code](https://github.com/lxc86739795/vehiclereid_baseline) for training and evaluation on the VeRi dataset.
 
-In this code, we should first get the distance matrix of all query images and test images.
-As in the example code, we have three distance matrixes obtained with SIFT-BOW, CN-BOW, CNN features seperately.
-Then these matrixes are summed with different weights to obtain the final "dist" matrix.
-
-Then we read the ground truth and junk image index (the test images that have the same camera ID with the query image, they are not considered when computing the AP) from the gt_image.txt and jk_image.txt.
-
-After that, for each query, we rank the distance to each test image and compute the Average Presicion using the compute_AP function.
-At last, we can obtain the mAP, HIT@1, HIT@5, and the CMC curves.
-
-The model and distance files can be downloaded from [BaiduPan](https://pan.baidu.com/s/1gYBNQI0_MZLB0ANW8qnYGw) and [GoogleDrive](https://drive.google.com/open?id=0B0o1ZxGs_oVZWmtFdXpqTGl3WUU).
+The complete code and models will be updated soon.
