@@ -20,16 +20,16 @@ To facilitate the research of vehicle re-identification (Re-Id), we build a larg
 
 ### Download
 To encourage related research, we will provide the dataset according to your request. 
-Please email your full name and affiliation to the contact person (*xinchenliu at bupt dot edu dot cn*). 
+Please email your full name and affiliation to the contact person (*xinchenliu at bupt dot cn*). 
 We ask for your information only to make sure the dataset is used for non-commercial purposes. 
 We will not give it to any third party or publish it publicly anywhere.
 *Due to the privacy issue we will not provide the license plates in the future.*
 
 ## Papers
 If you use the dataset, please kindly cite the following paper:
-* Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: **PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance. IEEE Trans. Multimedia** 20(3): 645-658 (2018) (Citation=33)
-* Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. ECCV (2) 2016: 869-884 (Citation=61)
-* Xinchen Liu, Wu Liu, Huadong Ma, Huiyuan Fu: Large-scale vehicle re-identification in urban surveillance videos. ICME 2016: 1-6 (**Best Student Paper Award**, Citation=81)
+* Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: **PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance. IEEE Trans. Multimedia** 20(3): 645-658 (2018) (Citation=164)
+* Xinchen Liu, Wu Liu, Tao Mei, Huadong Ma: A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. ECCV (2) 2016: 869-884 (Citation=230)
+* Xinchen Liu, Wu Liu, Huadong Ma, Huiyuan Fu: Large-scale vehicle re-identification in urban surveillance videos. ICME 2016: 1-6 (**Best Student Paper Award**, Citation=257)
 
 ## Application
 One US patent, ‘Progressive vehicle searching method and device’ (US 15350813), was granted in 2018. 
